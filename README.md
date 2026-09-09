@@ -37,5 +37,12 @@ This is the final generation of models and evaluation. It has two main functions
 **Order of Execution**
 The files should be run in order of *preprocessing.py* then optionally *optimisiation.py* and finally *models.py*. Without the outputs of preprocessing.py, models.py will fail to run.
 
+# Findings
+
+- **Best Model:** Random Forest performed best overall, with Maths predictions consistently more accuracte than English predictions for all models
+- **Maths Performance:** The best model achieved an MAE of **0.514** and an R^2 of **0.889** which was an 18% improvement over the Linear Regression baseline.
+- **Key Predictors:** Y11 Spring Mock Performance was the strongest predictor of GCSE Maths Results accounting for roughly **68%** of feature importance
+- **Model Comparison:** Random Forest outperformed Linear Regression, Decision Tree and SVR with Maths predictions showing tighter residuals and fewer larger errors than English predictions
+- **Interpretations:** The results should be taken with a grain of salt as predictions are dependent on school data and cannot contain every factor involved with student outcomes. 
 
 
