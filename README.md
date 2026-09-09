@@ -163,10 +163,10 @@ The actual and predicted values show the relationship between the model's predic
 
 ## Limitations
 
-The results are dependent on the variables available within the dataset and therefore cannot capture every factor that may influence student outcomes.
+The results depend on the variables available within the dataset and cannot capture every factor that may influence student outcomes.
 
 The dataset was limited to two GCSE cohorts from 9 UK schools, meaning the findings may not generalise to other schools or student populations.
 
 The strong influence of recent mock-exam performance also means that predictions may be less reliable when this information is unavailable or changes significantly.
 
-The models are intended to provide predictive insights and should support, rather than replace, professional judgement.
+The models are intended to provide predictive insights and could support professional judgement with further investigation.
