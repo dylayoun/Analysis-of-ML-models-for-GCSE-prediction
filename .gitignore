@@ -1,2 +1,17 @@
+#Dataset
 Data/*
 !Data/README.md
+
+#Figures
+# Figures
+Figures/*
+!Figures/English Data_Random Forest_actual_vs_predicted.png
+!Figures/English Data_Random Forest_residual_histogram.png
+!Figures/English Data_Random Forest_residuals_boxplot.png
+!Figures/English Data_Random Forest_tuning.png
+!Figures/English Data_Random_Forest_feature_importance.png
+!Figures/Maths Data_Random Forest_actual_vs_predicted.png
+!Figures/Maths Data_Random Forest_residual_histogram.png
+!Figures/Maths Data_Random Forest_residuals_boxplot.png
+!Figures/Maths Data_Random Forest_tuning.png
+!Figures/Maths Data_Random_Forest_feature_importance.png
